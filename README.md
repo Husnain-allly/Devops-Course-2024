@@ -12,16 +12,11 @@ This repository documents contains my learning and assignments from the DevOps c
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="mailto:husnainali2721@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/husnain-ali-0174b7247/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
-  </a>
-  <a href="https://medium.com/@i210542" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/medium-logo.png" alt="Medium" />
-  </a>
+  <a href="mailto:husnainali2721@gmail.com" target="_blank">Gmail</a> | 
+  <a href="https://www.linkedin.com/in/husnain-ali-0174b7247/" target="_blank">LinkedIn</a> | 
+  <a href="https://medium.com/@i210542" target="_blank">Medium</a>
 </p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
