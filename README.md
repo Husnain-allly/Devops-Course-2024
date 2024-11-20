@@ -27,8 +27,4 @@ This repository documents contains my learning and assignments from the DevOps c
 Thank you for visiting my GitHub profile! Feel free to explore my repositories and connect for collaboration opportunities.
 
 
-<h1 align="center"> Summmary of BLOGs </h1>
-
-
-
 
