@@ -1,5 +1,7 @@
 # Devops-Course-2024
 # DevOps_Learning_Journey
+This repository documents contains my learning and assignments from the DevOps course 2024. It includes guides, blog summaries, DevOps tool applications, and a personal landing page, reflecting my journey and contributions in mastering DevOps practices.
+
 <h1 align="center">Hi 👋, I'm HusnainAli</h1>
 <h3 align="center">Dedicated Computer Science student with a passion for creating innovative software solutions, leveraging a strong foundation in programming, problem-solving.</h3>
 
