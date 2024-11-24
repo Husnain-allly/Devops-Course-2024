@@ -33,11 +33,12 @@ I’ve honed my skills across a variety of essential DevOps tools and practices,
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=husnain-allly&show_icons=true&locale=en&layout=compact" alt="husnain-allly" /></p>
 
-Thank you for visiting my GitHub profile! Feel free to explore my repositories and connect for collaboration opportunities.
 
 ## Deployed Resource:
 
 - **DockerHub Link:** [husnain626/instaclone](https://hub.docker.com/u/husnain626)
 - **GitHub Link:** [Auto-Timetable-Generation](https://github.com/Husnain-allly/Auto-Timetable-Generation)
+- **Blog 3 Link:** [DevOps Course 2024 Blogs](https://github.com/Husnain-allly/Devops-Course-2024/tree/main/Blogs)
+
 
 
