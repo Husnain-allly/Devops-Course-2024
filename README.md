@@ -35,11 +35,9 @@ I’ve honed my skills across a variety of essential DevOps tools and practices,
 
 Thank you for visiting my GitHub profile! Feel free to explore my repositories and connect for collaboration opportunities.
 
-
 ## Deployed Resource:
 
-- **DockerHub Link:** [husnain626/timegeneration](https://hub.docker.com/u/husnain626)
-- **GitHub Link:** [Django-Instagram-Clone](https://github.com/your-username/Django-Instagram-Clone)
-- **Blog 3 Link:** [Guide to Setup Minikube for Kubernetes](https://your-blog-link.com)
+- **DockerHub Link:** [husnain626/instaclone](https://hub.docker.com/u/husnain626)
+- **GitHub Link:** [Auto-Timetable-Generation](https://github.com/Husnain-allly/Auto-Timetable-Generation)
 
 
