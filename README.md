@@ -38,7 +38,7 @@ I’ve honed my skills across a variety of essential DevOps tools and practices,
 
 - **DockerHub Link:** [husnain626/Timetable-Generation](https://hub.docker.com/u/husnain626)
 - **GitHub Link:** [Auto-Timetable-Generation](https://github.com/Husnain-allly/Auto-Timetable-Generation)
-- **Blog 3 Link:** [DevOps Course 2024 Blogs](https://github.com/Husnain-allly/Devops-Course-2024/tree/main/Blogs)
+- **Summary of Blogs Link:** [DevOps Course 2024 Blogs](https://github.com/Husnain-allly/Devops-Course-2024/tree/main/Blogs)
 
 
 
