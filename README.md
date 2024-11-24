@@ -1,6 +1,15 @@
 # DevOps_Learning_Journey
 This repository documents contains my learning and assignments from the DevOps course 2024. It includes guides, blog summaries, DevOps tool applications, and a personal landing page, reflecting my journey and contributions in mastering DevOps practices.
 
+I’ve honed my skills across a variety of essential DevOps tools and practices, including:
+
+- **Pipeline Automation (CI/CD):** Streamlining workflows with tools like GitHub Actions and Jenkins to ensure rapid, seamless delivery.
+- **Kubernetes:** Mastering cluster orchestration to deploy, scale, and manage containerized applications effectively.
+- **Docker:** Building portable, lightweight containers to ensure consistency across development and production environments.
+- **Cloud Platforms:** Harnessing the power of AWS (EKS, EC2) and GCP to create scalable and resilient infrastructure.
+- **Terraform for IaC:** Automating infrastructure provisioning and management with reusable, version-controlled code.
+
+
 <h1 align="center">Husnain Ali | Devops Engineer </h1>
 <h3 align="center">Dedicated Computer Science student with a passion for creating innovative software solutions, leveraging a strong foundation in programming, problem-solving.</h3>
 
@@ -17,15 +26,6 @@ This repository documents contains my learning and assignments from the DevOps c
   <a href="https://medium.com/@i210542" target="_blank">Medium</a>
 </p>
 
-## 🛠️ DevOps Expertise
-
-I’ve honed my skills across a variety of essential DevOps tools and practices, including:
-
-- **Pipeline Automation (CI/CD):** Streamlining workflows with tools like GitHub Actions and Jenkins to ensure rapid, seamless delivery.
-- **Kubernetes:** Mastering cluster orchestration to deploy, scale, and manage containerized applications effectively.
-- **Docker:** Building portable, lightweight containers to ensure consistency across development and production environments.
-- **Cloud Platforms:** Harnessing the power of AWS (EKS, EC2) and GCP to create scalable and resilient infrastructure.
-- **Terraform for IaC:** Automating infrastructure provisioning and management with reusable, version-controlled code.
 
 
 <h3 align="left">Languages and Tools:</h3>
